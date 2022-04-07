@@ -23,7 +23,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "https://mishkat07.github.io/robofriends-redux/",
+  "start_url": "/robofriends-redux/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
